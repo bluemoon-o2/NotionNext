@@ -1,4 +1,4 @@
-nconst CONFIG = {
+const CONFIG = {
 
   SIMPLE_LOGO_IMG: '/Logo.webp',
   SIMPLE_TOP_BAR: true, // 显示顶栏
